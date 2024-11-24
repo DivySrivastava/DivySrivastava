@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a Software Engineer at **TATA Advanced Systems Limited, Noida**
 
 - 🌱 I’m currently working on the development of Network Management System to monitor the health of complete network.
-- 
+  
 - 📫 How to reach me **srivastavdivy33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
