@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divysrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="divysrivastava" /> </p>
 
-- 🔭 I’m currently studying **BTech, Computer Science**
+- 🔭 I’m currently working as a Software Engineer at **TATA Advanced Systems Limited, Noida**
 
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **shashisrivastav95@gmail.com**
+- 🌱 I’m currently working on the development of Network Management System to monitor the health of complete network.
+- 
+- 📫 How to reach me **srivastavdivy33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
